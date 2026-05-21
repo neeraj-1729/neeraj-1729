@@ -29,5 +29,5 @@
 ### 📫 How to reach me
 
 [![Email](https://img.shields.io/badge/Email-neeraj.neeraj@cern.ch-blue?style=flat&logo=gmail&logoColor=white)](mailto:neeraj.neeraj@cern.ch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neeraj%20Chauhan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-chauhan-1729-cms-lhc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neeraj%20Chauhan-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/neeraj-chauhan-1729-cms-lhc)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--7730--0343-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7730-0343)
