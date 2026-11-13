@@ -16,17 +16,6 @@ I study proton–proton collisions recorded by the CMS detector at the Large Had
 - **Tau leptons at CMS.** Trigger scale factors for hadronically decaying taus ([Tau-Trigger-SF](https://github.com/neeraj-1729/Tau-Trigger-SF)).
 - **Heavy-ion phenomenology.** Strangeness production, freeze-out and charged-hadron distributions from RHIC to LHC energies, comparing transport and statistical models with data.
 
-## 📄 Preprints
-
-| Year | Title | arXiv |
-|------|-------|-------|
-| 2026 | Multiplicity and transverse density as ordering variables of the Λ/K⁰<sub>S</sub> ratio in oxygen–oxygen collisions at the LHC | [2611.04865](https://arxiv.org/abs/2611.04865) |
-| 2026 | Midrapidity dip and limiting fragmentation of charged hadrons from RHIC to LHC energies | [2610.35456](https://arxiv.org/abs/2610.35456) |
-| 2026 | System-size dependence of strangeness production from p+p to Pb+Pb: quantitative tests of the K⁺/π⁺ horn | [2608.28189](https://arxiv.org/abs/2608.28189) |
-| 2026 | Evidence for differential kinetic freeze-out of the φ(1020) meson in Pb–Pb collisions at √s<sub>NN</sub> = 2.76 TeV | [2606.31175](https://arxiv.org/abs/2606.31175) |
-
-CMS Collaboration papers and the full list are on [INSPIRE](https://inspirehep.net/literature?q=a%20Neeraj.2&sort=mostrecent).
-
 ## 🛠️ Tools
 
 **Languages**
